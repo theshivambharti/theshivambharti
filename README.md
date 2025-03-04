@@ -14,7 +14,7 @@
 
 ## 📄 Resume
 <div align="center">
-  <a href="https://github.com/theshivambharti/shivambharti/blob/main/Shivam_Bharti_Web_Developer.pdf">
+  <a href="https://github.com/theshivambharti/theshivambharti/raw/main/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Download_Resume-2D9EF7?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume"/>
   </a>
   <p>📥 Click to download my detailed resume</p>
@@ -56,9 +56,17 @@
 
 ## 🚀 Featured Projects
 
+### 🌐 Personal Portfolio
+<div align="center">
+  <a href="https://theshivambharti.github.io/shivambharti/" target="_blank">
+    <img src="https://img.shields.io/badge/-Personal_Portfolio-2D9EF7?style=for-the-badge&logo=bank&logoColor=white" alt="Personal Portfolio"/>
+  </a>
+  <p>My Professional Portfolio Website</p>
+</div>
+
 ### 🏢 Real Estate & Property Management
 <div align="center">
-  <a href="https://www.echelonrealtors.com/">
+  <a href="https://www.echelonrealtors.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Echelon_Realtors-2D9EF7?style=for-the-badge&logo=home&logoColor=white" alt="Echelon Realtors"/>
   </a>
   <p>Real Estate Listing & Property Management Platform</p>
@@ -66,7 +74,7 @@
 
 ### 🎉 Event Management
 <div align="center">
-  <a href="https://www.hksparty.com/">
+  <a href="https://www.hksparty.com/" target="_blank">
     <img src="https://img.shields.io/badge/-HKS_Party-FF69B4?style=for-the-badge&logo=calendar&logoColor=white" alt="HKS Party"/>
   </a>
   <p>Online Event Booking & Vendor Management System</p>
@@ -74,7 +82,7 @@
 
 ### 💼 Business & Franchise
 <div align="center">
-  <a href="https://brandsandbranches.com/">
+  <a href="https://brandsandbranches.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Brands_&_Branches-4CAF50?style=for-the-badge&logo=business&logoColor=white" alt="Brands & Branches"/>
   </a>
   <p>Franchise Discovery & Business Expansion Platform</p>
@@ -82,7 +90,7 @@
 
 ### 🏫 Education
 <div align="center">
-  <a href="https://www.heccollege.edu.in/">
+  <a href="https://www.heccollege.edu.in/" target="_blank">
     <img src="https://img.shields.io/badge/-HEC_College-FFA500?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="HEC College"/>
   </a>
   <p>Educational Institution & Student Management System</p>
@@ -90,7 +98,7 @@
 
 ### 🛍️ Service Marketplaces
 <div align="center">
-  <a href="https://www.d2dwork.com/">
+  <a href="https://www.d2dwork.com/" target="_blank">
     <img src="https://img.shields.io/badge/-D2D_Work-9C27B0?style=for-the-badge&logo=shopping-cart&logoColor=white" alt="D2D Work"/>
   </a>
   <p>Freelance & On-Demand Services Marketplace</p>
@@ -98,7 +106,7 @@
 
 ### 🏥 Wellness & Healthcare
 <div align="center">
-  <a href="https://purityspa.in/">
+  <a href="https://purityspa.in/" target="_blank">
     <img src="https://img.shields.io/badge/-Purity_Spa-00BCD4?style=for-the-badge&logo=heart&logoColor=white" alt="Purity Spa"/>
   </a>
   <p>Wellness & Spa Services Platform</p>
@@ -125,7 +133,7 @@
     <a href="https://www.linkedin.com/in/shivambharti/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:shivamjobs@outlook.com">
+    <a href="mailto:shivamjobs@outlook.com" target="_blank">
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://github.com/theshivambharti" target="_blank">
@@ -140,8 +148,8 @@
 <div align="center">
   <h3>📧 Direct Contact</h3>
   <p>
-    <strong>📧 Email:</strong> shivamjobs@outlook.com<br>
-    <strong>📱 Phone:</strong> +91 7870660390<br>
+    <strong>📧 Email:</strong> <a href="mailto:shivamjobs@outlook.com" target="_blank">shivamjobs@outlook.com</a><br>
+    <strong>📱 Phone:</strong> <a href="tel:+917870660390" target="_blank">+91 7870660390</a><br>
     <strong>💼 LinkedIn:</strong> <a href="https://www.linkedin.com/in/shivambharti/" target="_blank">linkedin.com/in/shivambharti</a>
   </p>
 </div>
@@ -155,7 +163,7 @@
 ## 🌟 Let's Work Together!
 <div align="center">
   <p>I'm always open to discussing new projects, creative ideas or opportunities to be part of your visions.</p>
-  <a href="mailto:shivamjobs@outlook.com">
+  <a href="mailto:shivamjobs@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/-Hire_Me-2D9EF7?style=for-the-badge&logo=mail&logoColor=white" alt="Hire Me"/>
   </a>
 </div>
@@ -163,5 +171,5 @@
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=theshivambharti&color=blueviolet" alt="Profile Views"/>
-  <p>⭐️ From <a href="https://github.com/theshivambharti">Shivam</a></p>
+  <p>⭐️ From <a href="https://github.com/theshivambharti" target="_blank">Shivam</a></p>
 </div> 
