@@ -46,6 +46,56 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-2D9EF7?style=flat-square&logo=github-actions&logoColor=white)
 
+## 🚀 Featured Projects
+
+### 🏢 Real Estate & Property Management
+<div align="center">
+  <a href="https://www.echelonrealtors.com/">
+    <img src="https://img.shields.io/badge/-Echelon_Realtors-2D9EF7?style=for-the-badge&logo=home&logoColor=white" alt="Echelon Realtors"/>
+  </a>
+  <p>Real Estate Listing & Property Management Platform</p>
+</div>
+
+### 🎉 Event Management
+<div align="center">
+  <a href="https://www.hksparty.com/">
+    <img src="https://img.shields.io/badge/-HKS_Party-FF69B4?style=for-the-badge&logo=calendar&logoColor=white" alt="HKS Party"/>
+  </a>
+  <p>Online Event Booking & Vendor Management System</p>
+</div>
+
+### 💼 Business & Franchise
+<div align="center">
+  <a href="https://brandsandbranches.com/">
+    <img src="https://img.shields.io/badge/-Brands_&_Branches-4CAF50?style=for-the-badge&logo=business&logoColor=white" alt="Brands & Branches"/>
+  </a>
+  <p>Franchise Discovery & Business Expansion Platform</p>
+</div>
+
+### 🏫 Education
+<div align="center">
+  <a href="https://www.heccollege.edu.in/">
+    <img src="https://img.shields.io/badge/-HEC_College-FFA500?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="HEC College"/>
+  </a>
+  <p>Educational Institution & Student Management System</p>
+</div>
+
+### 🛍️ Service Marketplaces
+<div align="center">
+  <a href="https://www.d2dwork.com/">
+    <img src="https://img.shields.io/badge/-D2D_Work-9C27B0?style=for-the-badge&logo=shopping-cart&logoColor=white" alt="D2D Work"/>
+  </a>
+  <p>Freelance & On-Demand Services Marketplace</p>
+</div>
+
+### 🏥 Wellness & Healthcare
+<div align="center">
+  <a href="https://purityspa.in/">
+    <img src="https://img.shields.io/badge/-Purity_Spa-00BCD4?style=for-the-badge&logo=heart&logoColor=white" alt="Purity Spa"/>
+  </a>
+  <p>Wellness & Spa Services Platform</p>
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
