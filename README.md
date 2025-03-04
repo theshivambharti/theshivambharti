@@ -14,7 +14,7 @@
 
 ## 📄 Resume
 <div align="center">
-  <a href="https://github.com/theshivambharti/theshivambharti/Shivam_Bharti_Web_Developer.pdf">
+  <a href="https://github.com/theshivambharti/shivambharti/blob/main/Shivam_Bharti_Web_Developer.pdf">
     <img src="https://img.shields.io/badge/-Download_Resume-2D9EF7?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume"/>
   </a>
   <p>📥 Click to download my detailed resume</p>
