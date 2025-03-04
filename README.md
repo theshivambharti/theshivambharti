@@ -12,6 +12,14 @@
 - 💡 I love turning complex problems into simple, beautiful solutions
 - 🎯 Focused on delivering high-quality, scalable applications
 
+## 📄 Resume
+<div align="center">
+  <a href="https://github.com/theshivambharti/theshivambharti/raw/main/resume.pdf">
+    <img src="https://img.shields.io/badge/-Download_Resume-2D9EF7?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume"/>
+  </a>
+  <p>📥 Click to download my detailed resume</p>
+</div>
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
