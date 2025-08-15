@@ -58,7 +58,7 @@
 
 ### 🌐 Personal Portfolio
 <div align="center">
-  <a href="https://theshivambharti.github.io/shivambharti/" target="_blank">
+  <a href="https://theshivambharti.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/-Personal_Portfolio-2D9EF7?style=for-the-badge&logo=bank&logoColor=white" alt="Personal Portfolio"/>
   </a>
   <p>My Professional Portfolio Website</p>
